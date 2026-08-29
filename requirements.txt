@@ -1,0 +1,4 @@
+supabase
+user-agents
+streamlit-js-eval
+pandas
